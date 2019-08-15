@@ -1,9 +1,0 @@
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\bin\Debug\netcoreapp1.1\Web.deps.json
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\bin\Debug\netcoreapp1.1\Web.runtimeconfig.json
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\bin\Debug\netcoreapp1.1\Web.runtimeconfig.dev.json
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\bin\Debug\netcoreapp1.1\Web.dll
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\bin\Debug\netcoreapp1.1\Web.pdb
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\obj\Debug\netcoreapp1.1\Web.csprojResolveAssemblyReference.cache
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\obj\Debug\netcoreapp1.1\Web.AssemblyInfo.cs
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\obj\Debug\netcoreapp1.1\Web.dll
-C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities\obj\Debug\netcoreapp1.1\Web.pdb
