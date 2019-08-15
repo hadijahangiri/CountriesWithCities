@@ -1,0 +1,7 @@
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\obj\Debug\CountriesWithCities.Models.Tools.csprojResolveAssemblyReference.cache
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\bin\Debug\CountriesWithCities.Models.Tools.dll
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\bin\Debug\CountriesWithCities.Models.Tools.pdb
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\bin\Debug\CountriesWithCities.Models.dll
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\bin\Debug\CountriesWithCities.Models.pdb
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\obj\Debug\CountriesWithCities.Models.Tools.dll
+C:\_projects\CountriesWithCities\CountriesWithCities\CountriesWithCities.Models.Tools\obj\Debug\CountriesWithCities.Models.Tools.pdb
